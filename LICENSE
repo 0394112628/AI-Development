@@ -1,45 +1,67 @@
-Universal Anti-Ownership License (UAOL) – Version v1.0 (Core Legal Text)
+Universal Anti-Ownership License (UAOL) – Version 1.0
 1. Definitions
-“Licensed Material” means the source code, object code, or other work distributed under this License.
+Licensed Material: The source code, object code, or any other work distributed under this License.
 
-“Derivative Work” means any work based on, incorporating, modifying, translating, adapting, merging, or otherwise using the Licensed Material, in whole or in part.
+Derivative Work: Any work that is based upon, incorporates, modifies, translates, adapts, merges, or otherwise uses the Licensed Material, in whole or in part.
 
-“Functionally Equivalent” means any work that performs substantially the same purpose and achieves substantially the same result as the Licensed Material or a Derivative Work, regardless of differences in form, implementation, or expression.
+Functionally Equivalent Work: Any work that performs substantially the same function and achieves substantially the same result as the Licensed Material or a Derivative Work, regardless of differences in form, implementation, or expression.
 
-“Affiliate” means any entity that directly or indirectly controls, is controlled by, or is under common control with another entity.
+Affiliate: Any entity that directly or indirectly controls, is controlled by, or is under common control with another entity.
 
-“Use” includes internal operation, public deployment, modification, reproduction, distribution, or making available to others.
+Use: To utilize, execute, operate, reproduce, modify, merge, publish, distribute, sublicense, sell, make available, or otherwise employ the Licensed Material, Derivative Works, or Functionally Equivalent Works, including deployment via cloud, network, or other remote services.
+
+You: The licensee or recipient of rights under this License.
+
+Patent Claim, Copyright, Trademark, Moral Right, Intellectual Property Right: Any patent, copyright, trademark, moral right, trade secret, or any other form of intellectual property right recognized under applicable law.
 
 2. Grant of Rights
-You are granted a worldwide, perpetual, royalty-free, irrevocable, non-exclusive license to:
-a. Use, reproduce, modify, merge, publish, distribute, sublicense, sell, or claim authorship of the Licensed Material and Derivative Works.
-b. Apply for or hold patents, copyrights, or trademarks covering the Licensed Material or Derivative Works, provided such rights are never asserted to restrict others from exercising rights under this License.
+Subject to the terms and conditions of this License, You are hereby granted a worldwide, perpetual, royalty-free, irrevocable, non-exclusive license to:
+
+a. Use, reproduce, modify, merge, publish, distribute, sublicense, sell, or claim authorship of the Licensed Material and Derivative Works;
+
+b. Apply for, obtain, hold, and enforce patents, copyrights, trademarks, or other intellectual property rights covering the Licensed Material or Derivative Works, provided that such rights are exercised solely to preserve the freedoms granted under this License and are never asserted in a manner that restricts or limits the rights of others under this License.
 
 3. Covenant Not to Assert
-You, on behalf of yourself and your Affiliates, successors, assigns, and any entity under common control, covenant not to assert any Patent Claim, Copyright, Trademark, or other legal right:
-a. Against any person or entity for using, making, modifying, distributing, or selling the Licensed Material, any Derivative Work, or any Functionally Equivalent work; or
-b. In any manner that would interfere with or limit the rights granted under this License.
-This covenant is perpetual, worldwide, binding on all successors and assigns, and survives any transfer of rights.
+You, on behalf of Yourself, Your Affiliates, successors, assigns, and any entity under common control, hereby irrevocably covenant and agree that You will not, nor will You authorize, assist, or encourage any third party to:
+
+a. Assert, enforce, or threaten to enforce any Patent Claim, Copyright, Trademark, Moral Right, or other Intellectual Property Right against any person or entity for exercising any rights granted under this License with respect to the Licensed Material, any Derivative Work, or any Functionally Equivalent Work;
+
+b. Take any action that would interfere with, restrict, limit, or otherwise hinder the free exercise of rights granted by this License.
+
+This covenant is perpetual, worldwide, binding on all successors, assigns, and licensees, and survives any transfer of rights or ownership.
 
 4. Patent License Fallback
-If any jurisdiction finds Section 3 unenforceable, you grant a worldwide, royalty-free, irrevocable license under any Patent Claim you control that would be infringed by the Licensed Material, any Derivative Work, or any Functionally Equivalent work, to make, use, sell, offer to sell, import, run, modify, and distribute such works.
+If any court or competent authority finds any provision of Section 3 unenforceable under applicable law, You hereby grant a worldwide, royalty-free, irrevocable, non-exclusive license under any Patent Claim You control that would otherwise be infringed by the Licensed Material, any Derivative Work, or any Functionally Equivalent Work, to make, use, sell, offer to sell, import, run, modify, and distribute such works to the extent necessary to exercise the rights granted by this License.
 
 5. Viral Inheritance
 Any Derivative Work or distribution of the Licensed Material must:
-a. Be licensed under this License without additional restrictions; and
-b. Include a conspicuous copy of this License in all copies and substantial portions of the Licensed Material.
+
+a. Be licensed under this License or a later version without imposing any additional restrictions that limit the rights granted hereunder;
+
+b. Include a conspicuous and legible copy of this License with all copies or substantial portions of the Licensed Material or Derivative Works;
+
+c. Preserve all original copyright, patent, trademark, and attribution notices, disclaimers, and this License text.
 
 6. No Additional Restrictions
-You may not impose legal terms, technological measures, or contractual conditions that restrict others from exercising rights granted here.
+You may not impose, or permit to be imposed, any legal terms, technological measures (including digital rights management or DRM), contractual conditions, or any other restrictions that would restrict, limit, or prevent others from exercising any rights granted under this License.
 
-7. Disclaimer of Warranty and Liability
-The Licensed Material is provided “AS IS,” without warranty of any kind.
-No contributor shall be liable for any damages arising in any way from the use of the Licensed Material.
+7. Disclaimer of Warranty and Limitation of Liability
+The Licensed Material is provided on an “AS IS” basis, without warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, or accuracy.
+
+To the maximum extent permitted by applicable law, no contributor or licensor shall be liable for any damages, whether direct, indirect, incidental, special, consequential, or punitive, arising out of or related to the use or inability to use the Licensed Material, even if advised of the possibility of such damages.
 
 8. Termination
-Any violation of Section 3 or Section 5 automatically and permanently terminates your rights under this License.
-Upon termination, you must immediately cease all use and distribution of the Licensed Material and Derivative Works, unless separately licensed by the copyright holder.
+Any violation of Section 3 (Covenant Not to Assert) or Section 5 (Viral Inheritance) shall automatically and permanently terminate Your rights under this License.
+
+Upon termination, You must immediately cease all use, distribution, and exploitation of the Licensed Material and any Derivative Works unless separately licensed by the copyright holder.
+
+Termination does not affect rights granted to any third party who received the Licensed Material or Derivative Works from You prior to termination.
 
 9. Severability and Governing Law
-If any provision of this License is held invalid or unenforceable, the remaining provisions remain in full force and effect.
-This License applies worldwide. Any dispute shall be governed by the laws of the jurisdiction in which the defendant resides, unless both parties agree otherwise.
+If any provision of this License is held invalid, unenforceable, or illegal by a court or competent authority, the remaining provisions shall remain in full force and effect.
+
+This License applies worldwide.
+
+Any dispute arising from or relating to this License shall be governed by the laws of the jurisdiction in which the defendant resides, unless both parties agree otherwise.
+
+Parties are encouraged to seek amicable resolution or alternative dispute resolution prior to commencing litigation.
