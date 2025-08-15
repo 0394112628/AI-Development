@@ -1,67 +1,69 @@
 Universal Anti-Ownership License (UAOL) – Version 1.0
+
 1. Definitions
-Licensed Material: The source code, object code, or any other work distributed under this License.
 
-Derivative Work: Any work that is based upon, incorporates, modifies, translates, adapts, merges, or otherwise uses the Licensed Material, in whole or in part.
+Licensed Material – The source code, object code, documentation, or any other work distributed under this License.
 
-Functionally Equivalent Work: Any work that performs substantially the same function and achieves substantially the same result as the Licensed Material or a Derivative Work, regardless of differences in form, implementation, or expression.
+Derivative Work – Any work that is based upon, incorporates, modifies, translates, adapts, merges, or otherwise uses the Licensed Material, in whole or in part, in a manner subject to copyright or other intellectual property law.
 
-Affiliate: Any entity that directly or indirectly controls, is controlled by, or is under common control with another entity.
+Covered Work – Any Derivative Work or any other work that:
+a) Implements or reproduces a substantial part of the unique structure, sequence, organization, data formats, APIs, command interfaces, or non-functional elements of the Licensed Material; or
+b) Is developed, directly or indirectly, with reference to the Licensed Material; or
+c) Infringes, or would infringe absent this License, any Patent Claim held by You that reads on the Licensed Material or any Derivative Work.
 
-Use: To utilize, execute, operate, reproduce, modify, merge, publish, distribute, sublicense, sell, make available, or otherwise employ the Licensed Material, Derivative Works, or Functionally Equivalent Works, including deployment via cloud, network, or other remote services.
+Affiliate – Any entity that directly or indirectly controls, is controlled by, or is under common control with another entity.
 
-You: The licensee or recipient of rights under this License.
+Use – To utilize, execute, operate, reproduce, modify, merge, publish, distribute, sublicense, sell, make available, or otherwise employ the Licensed Material or any Covered Work, including deployment via cloud, network, or remote services.
 
-Patent Claim, Copyright, Trademark, Moral Right, Intellectual Property Right: Any patent, copyright, trademark, moral right, trade secret, or any other form of intellectual property right recognized under applicable law.
+You – The licensee or recipient of rights under this License.
 
-2. Grant of Rights
-Subject to the terms and conditions of this License, You are hereby granted a worldwide, perpetual, royalty-free, irrevocable, non-exclusive license to:
+Intellectual Property Right – Any patent, copyright, trademark, moral right, trade secret, or any other form of intellectual property recognized under applicable law.
 
-a. Use, reproduce, modify, merge, publish, distribute, sublicense, sell, or claim authorship of the Licensed Material and Derivative Works;
+2. Acceptance
 
-b. Apply for, obtain, hold, and enforce patents, copyrights, trademarks, or other intellectual property rights covering the Licensed Material or Derivative Works, provided that such rights are exercised solely to preserve the freedoms granted under this License and are never asserted in a manner that restricts or limits the rights of others under this License.
+By receiving, using, copying, modifying, or distributing the Licensed Material, You agree to all terms of this License as a binding contract between You and each Licensor. If You do not agree, You must not Use the Licensed Material.
 
-3. Covenant Not to Assert
-You, on behalf of Yourself, Your Affiliates, successors, assigns, and any entity under common control, hereby irrevocably covenant and agree that You will not, nor will You authorize, assist, or encourage any third party to:
+3. Grant of Rights
 
-a. Assert, enforce, or threaten to enforce any Patent Claim, Copyright, Trademark, Moral Right, or other Intellectual Property Right against any person or entity for exercising any rights granted under this License with respect to the Licensed Material, any Derivative Work, or any Functionally Equivalent Work;
+Subject to the terms and conditions of this License, You are granted a worldwide, perpetual, royalty-free, irrevocable, non-exclusive license to:
+a) Use, reproduce, modify, merge, publish, distribute, sublicense, sell, and claim authorship of the Licensed Material and any Covered Work;
+b) Apply for, obtain, hold, and enforce Intellectual Property Rights covering the Licensed Material or any Covered Work, provided such rights are exercised solely to preserve the freedoms granted under this License and never to restrict them.
 
-b. Take any action that would interfere with, restrict, limit, or otherwise hinder the free exercise of rights granted by this License.
+4. Covenant Not to Assert
 
-This covenant is perpetual, worldwide, binding on all successors, assigns, and licensees, and survives any transfer of rights or ownership.
+You, on behalf of Yourself, Affiliates, successors, assigns, and any entity under common control, irrevocably covenant not to assert, enforce, or threaten to enforce any Intellectual Property Right against any person or entity for exercising rights granted by this License with respect to the Licensed Material or any Covered Work.
 
-4. Patent License Fallback
-If any court or competent authority finds any provision of Section 3 unenforceable under applicable law, You hereby grant a worldwide, royalty-free, irrevocable, non-exclusive license under any Patent Claim You control that would otherwise be infringed by the Licensed Material, any Derivative Work, or any Functionally Equivalent Work, to make, use, sell, offer to sell, import, run, modify, and distribute such works to the extent necessary to exercise the rights granted by this License.
+5. Patent License
 
-5. Viral Inheritance
-Any Derivative Work or distribution of the Licensed Material must:
+If You own or control any Patent Claim that would be infringed by the Licensed Material or any Covered Work, You grant a worldwide, royalty-free, irrevocable license to make, use, sell, offer to sell, import, run, modify, and distribute such works to the extent necessary to exercise the rights granted herein.
 
-a. Be licensed under this License or a later version without imposing any additional restrictions that limit the rights granted hereunder;
+6. Copyleft – Viral Inheritance
 
-b. Include a conspicuous and legible copy of this License with all copies or substantial portions of the Licensed Material or Derivative Works;
+Any Covered Work You distribute, make available, or deploy must:
+a) Be licensed in full under this License or a later official version;
+b) Include a conspicuous and legible copy of this License;
+c) Preserve all original notices, disclaimers, and attribution.
 
-c. Preserve all original copyright, patent, trademark, and attribution notices, disclaimers, and this License text.
+No additional restrictions may be imposed by contract, DRM, technical measures, or legal terms that limit the freedoms granted here.
 
-6. No Additional Restrictions
-You may not impose, or permit to be imposed, any legal terms, technological measures (including digital rights management or DRM), contractual conditions, or any other restrictions that would restrict, limit, or prevent others from exercising any rights granted under this License.
+7. Disclaimer of Warranty
 
-7. Disclaimer of Warranty and Limitation of Liability
-The Licensed Material is provided on an “AS IS” basis, without warranties of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, or accuracy.
-
-To the maximum extent permitted by applicable law, no contributor or licensor shall be liable for any damages, whether direct, indirect, incidental, special, consequential, or punitive, arising out of or related to the use or inability to use the Licensed Material, even if advised of the possibility of such damages.
+The Licensed Material is provided “AS IS,” without warranties of any kind. No contributor or licensor shall be liable for any damages arising from Use of the Licensed Material.
 
 8. Termination
-Any violation of Section 3 (Covenant Not to Assert) or Section 5 (Viral Inheritance) shall automatically and permanently terminate Your rights under this License.
 
-Upon termination, You must immediately cease all use, distribution, and exploitation of the Licensed Material and any Derivative Works unless separately licensed by the copyright holder.
-
-Termination does not affect rights granted to any third party who received the Licensed Material or Derivative Works from You prior to termination.
+Any violation of Section 4 (Covenant Not to Assert) or Section 6 (Copyleft) automatically and permanently terminates Your rights under this License. Rights previously granted to third parties remain unaffected.
 
 9. Severability and Governing Law
-If any provision of this License is held invalid, unenforceable, or illegal by a court or competent authority, the remaining provisions shall remain in full force and effect.
 
-This License applies worldwide.
+If any provision of this License is held unenforceable, the remainder shall remain in effect. This License applies worldwide, and disputes shall be governed by the laws of the jurisdiction of the defendant, unless both parties agree otherwise.
 
-Any dispute arising from or relating to this License shall be governed by the laws of the jurisdiction in which the defendant resides, unless both parties agree otherwise.
+Summary of Enforceability Improvements:
 
-Parties are encouraged to seek amicable resolution or alternative dispute resolution prior to commencing litigation.
+“Functionally Equivalent Work” replaced with Covered Work, tied to copyright-protectable elements and patents.
+
+Explicit contract acceptance for extra legal standing.
+
+Patent clause covers equivalent implementations to close loopholes.
+
+Still strong anti-assertion and copyleft.
